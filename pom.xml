@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-ckeditor</artifactId>
-    <version>0.2</version>
+    <version>0.3-SNAPSHOT</version>
     <name>CKEditor + AngularJS</name>
     <description>WebJar for CKEditor + AngularJS</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/ng-ckeditor</url>
         <connection>scm:git:https://github.com/webjars/ng-ckeditor.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ng-ckeditor.git</developerConnection>
-        <tag>ng-ckeditor-0.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
